@@ -17,6 +17,7 @@ java Birds$1.java
 and press Enter.
 
 4. ![image](https://github.com/jashandeepkaur123/assignment-2/assets/141368268/a0e24351-80ce-4a3c-85b9-2a5411b0c5f0)
+
 This opened window is the ouput.
 
 ## For Intersection Simulator / Traffic Simulator
@@ -36,4 +37,5 @@ java IntersectionSimulator.java
 and press Enter.
 
 4. ![image](https://github.com/jashandeepkaur123/assignment-2/assets/141368268/4a428c89-2edc-4f36-a027-119e88615463)
+
 The ouput will be displayed as shown.
